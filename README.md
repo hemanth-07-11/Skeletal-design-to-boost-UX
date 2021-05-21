@@ -9,7 +9,8 @@ https://www.youtube.com/watch?v=2DHer5AtyiU
 #### Practiced usestate and useeffect and basics of rendering while building the project
 
 <br>
-### Implementing Skeletal UI
+
+###  Implementing Skeletal UI
 
 Some popular packages make implementing skeleton screens in web apps easier. Let’s take a closer look at both of them:
 
